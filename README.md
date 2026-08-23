@@ -1,65 +1,91 @@
 # Hi, I'm Siva 👋
 
-Embedded Systems Engineer | Post-Silicon Validation | Linux Kernel & Drivers
+## Embedded Systems Engineer
 
-I work at the intersection of hardware and software, with a focus on:
+**Post-Silicon Validation · Embedded Linux · Linux Device Drivers · ARM · SoC Validation**
 
-• SoC / Post-Silicon Validation
-• Embedded Linux
-• Linux Device Drivers
-• ARM Architecture
-• PCIe / USB / I2C / SPI / UART
-• System Bring-up & Debugging
-• Embedded Systems Tools & Simulators
+I work at the hardware/software boundary, with a focus on **SoC bring-up, post-silicon validation, Linux kernel and device-driver development, embedded systems, and protocol debugging**.
+
+### 🔧 Core Areas
+
+- **Embedded:** C, Embedded C, ARM Cortex-M/Cortex-A, Bare Metal, RTOS
+- **Linux:** Linux Kernel, Device Drivers, Device Tree, U-Boot, BSP, GDB
+- **Interfaces:** PCIe, USB, I2C, SPI, UART, SD/MMC
+- **Validation:** SoC bring-up, register validation, interrupts, DMA, memory, protocol analysis and debug
+- **Debug:** JTAG, Trace32, logic analyzers, oscilloscopes and protocol analyzers
+- **Tools:** C/C++, Python, Bash, Linux
 
 ---
 
 ## 🚀 Featured Projects
 
-### Embedded Systems Tools
-Interactive browser-based tools for learning and understanding
-embedded systems concepts.
+### [ES-Tools](https://github.com/sivaramireddy18/ES-Tools)
+An evolving browser-based toolkit for **Embedded Systems learning and engineering experiments**.
 
-### Think Silicon Academy
-Embedded systems learning and training platform.
+### [Think Silicon Academy](https://github.com/sivaramireddy18/Think-Silicon-Academy)
+An evolving platform for **Embedded Systems and semiconductor-focused training content**.
 
-### Linux Driver Labs
-Hands-on Linux kernel and device-driver experiments.
+### [Embedded Master](https://github.com/sivaramireddy18/Embedded_Master)
+A growing knowledge base and collection of embedded-systems learning material and experiments.
 
-### SoC Validation Labs
-Practical validation experiments covering protocols,
-registers, memory, interrupts and system debugging.
+### [Knowledge Hub – Embedded Systems](https://github.com/sivaramireddy18/Knowledge-Hub-Embedded-Systems)
+A structured knowledge repository covering embedded concepts and engineering topics.
 
 ---
 
-## 🧠 Current Focus
+## 🧪 Engineering Focus
 
-Embedded Linux
-Linux Device Drivers
-ARM Cortex-M / Cortex-A
-SoC Architecture
-PCIe / USB / I2C / SPI
-Post-Silicon Validation
+```text
+Hardware / SoC
+      │
+      ├── ARM Architecture
+      ├── Memory / Registers / Interrupts
+      ├── PCIe / USB / I2C / SPI / UART
+      │
+      ▼
+Embedded Software
+      │
+      ├── Bare Metal / RTOS
+      ├── Embedded Linux
+      ├── Device Tree / BSP / U-Boot
+      └── Linux Device Drivers
+      │
+      ▼
+Validation & Debug
+      │
+      ├── Bring-up
+      ├── Test Development
+      ├── Protocol Analysis
+      ├── Root-Cause Debugging
+      └── Post-Silicon Validation
+```
 
 ---
 
-## 🛠️ Technologies
+## 📚 Current Focus
 
-C | C++ | Python | Linux | Bash
-Kernel | Device Tree | U-Boot
-ARM | GDB | JTAG | Trace32
-PCIe | USB | I2C | SPI | UART
+- Linux Device Driver development
+- Embedded Linux and BSP development
+- ARM architecture and system-level concepts
+- PCIe / USB / I2C / SPI / UART validation
+- SoC validation methodologies
+- Embedded Systems simulation and browser-based engineering tools
 
 ---
 
-## 🌐 Projects
+## 🎯 Portfolio Goal
 
-Embedded Systems Platform
-Think Silicon Academy
-Embedded Tools
+I'm building this GitHub profile as a practical **Embedded Systems Engineering portfolio** — focused on projects, experiments, validation methodologies, debugging, and reusable engineering tools rather than only course exercises.
+
+> **Learn → Build → Validate → Debug → Document**
 
 ---
 
 ## 📫 Connect
 
-LinkedIn | GitHub | Portfolio
+- GitHub: [@sivaramireddy18](https://github.com/sivaramireddy18)
+- LinkedIn: [Siva Rami Reddy](https://www.linkedin.com/)
+
+---
+
+⭐ If you find an embedded-systems project useful, feel free to explore the repositories and follow the work in progress.
