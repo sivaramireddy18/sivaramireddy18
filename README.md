@@ -1,35 +1,65 @@
-# Hi there, I'm Siva Rami Reddy 👋
+# Hi, I'm Siva 👋
 
-I'm a **Senior Validation Engineer** at Happiest Minds, specializing in post-silicon and functional validation for embedded hardware. I'm currently pursuing my M.Tech in Embedded Systems and am passionate about building tools that make complex embedded concepts accessible.
+Embedded Systems Engineer | Post-Silicon Validation | Linux Kernel & Drivers
 
-### 📊 My GitHub Activity
+I work at the intersection of hardware and software, with a focus on:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivaramireddy18&show_icons=true&theme=radical&hide_border=true" height="195" alt="Siva's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaramireddy18&layout=compact&theme=radical&hide_border=true" height="195" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sivaramireddy18&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+• SoC / Post-Silicon Validation
+• Embedded Linux
+• Linux Device Drivers
+• ARM Architecture
+• PCIe / USB / I2C / SPI / UART
+• System Bring-up & Debugging
+• Embedded Systems Tools & Simulators
 
-## 🚀 Featured Project: Embedded Systems Simulation Platform
+---
 
-I designed and published an open-source web application providing interactive, browser-based tools for embedded systems engineers and students. 
+## 🚀 Featured Projects
 
-🔗 **[Explore the Platform Here](https://sivaramireddy18.github.io/)**
+### Embedded Systems Tools
+Interactive browser-based tools for learning and understanding
+embedded systems concepts.
 
-**Platform Highlights:**
-* **Architecture Tools:** Simulators for ARM Cortex-M interrupts and memory allocation.
-* **Hardware Logic:** Interactive digital logic gate simulators.
-* **Protocol Visualization:** Tools for understanding serial communication protocols.
+### Think Silicon Academy
+Embedded systems learning and training platform.
 
-## 🛠️ Skills & Technical Expertise
+### Linux Driver Labs
+Hands-on Linux kernel and device-driver experiments.
 
-* **Microcontroller Architectures:** ARM Cortex-M series (Cortex-M33, Cortex-M55)
-* **Functional Validation:** PCIe, USB, and I2C controllers
-* **Core Competencies:** Post-silicon validation, register memory mapping, and system-level debugging
+### SoC Validation Labs
+Practical validation experiments covering protocols,
+registers, memory, interrupts and system debugging.
 
-## 📫 Let's Connect
+---
 
-* **Portfolio:** [sivaramireddy18.github.io](https://sivaramireddy18.github.io/)
-* **LinkedIn:** [Find me on LinkedIn](https://www.linkedin.com/in/sivaramireddy18/)
+## 🧠 Current Focus
+
+Embedded Linux
+Linux Device Drivers
+ARM Cortex-M / Cortex-A
+SoC Architecture
+PCIe / USB / I2C / SPI
+Post-Silicon Validation
+
+---
+
+## 🛠️ Technologies
+
+C | C++ | Python | Linux | Bash
+Kernel | Device Tree | U-Boot
+ARM | GDB | JTAG | Trace32
+PCIe | USB | I2C | SPI | UART
+
+---
+
+## 🌐 Projects
+
+Embedded Systems Platform
+Think Silicon Academy
+Embedded Tools
+
+---
+
+## 📫 Connect
+
+LinkedIn | GitHub | Portfolio
