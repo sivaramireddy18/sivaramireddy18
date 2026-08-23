@@ -22,14 +22,17 @@ I work at the hardware/software boundary, with a focus on **SoC bring-up, post-s
 ### [ES-Tools](https://github.com/sivaramireddy18/ES-Tools)
 An evolving browser-based toolkit for **Embedded Systems learning and engineering experiments**.
 
+### [Embed-Tools](https://github.com/sivaramireddy18/Embed-Tools)
+A lightweight suite of interactive simulators for **digital logic, memory, registers, Cortex-M interrupts and embedded protocols**.
+
 ### [Think Silicon Academy](https://github.com/sivaramireddy18/Think-Silicon-Academy)
 An evolving platform for **Embedded Systems and semiconductor-focused training content**.
 
-### [Embedded Master](https://github.com/sivaramireddy18/Embedded_Master)
-A growing knowledge base and collection of embedded-systems learning material and experiments.
-
 ### [Knowledge Hub – Embedded Systems](https://github.com/sivaramireddy18/Knowledge-Hub-Embedded-Systems)
-A structured knowledge repository covering embedded concepts and engineering topics.
+A structured knowledge and tutor platform covering embedded engineering concepts.
+
+### [Embedded Master](https://github.com/sivaramireddy18/Embedded_Master)
+A growing workspace for **embedded-systems learning, engineering notes and experiments**.
 
 ---
 
@@ -84,7 +87,6 @@ I'm building this GitHub profile as a practical **Embedded Systems Engineering p
 ## 📫 Connect
 
 - GitHub: [@sivaramireddy18](https://github.com/sivaramireddy18)
-- LinkedIn: [Siva Rami Reddy](https://www.linkedin.com/)
 
 ---
 
