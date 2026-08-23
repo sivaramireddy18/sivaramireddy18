@@ -1,10 +1,10 @@
 # Hi, I'm Siva Rami Reddy 👋
 
-### Embedded Systems Engineer | CPU Subsystem Validation | Linux Device Drivers
+### Embedded Systems Engineer | CPU Subsystem Validation | Arm Cortex-M
 
 I work at the **hardware/software boundary**, with a current focus on **Arm Cortex-M33 + Cortex-M55 MCU CPU-subsystem validation** and post-silicon engineering.
 
-My work spans **CPU bring-up, reset and boot behavior, exceptions and interrupts, memory and system behavior, debug, inter-core interaction, MCU peripherals, and hardware/software root-cause analysis**. I also build Linux driver, embedded software, and validation-automation projects to strengthen the full stack from firmware to hardware evidence.
+My work spans **CPU bring-up, reset and boot behavior, exceptions and interrupts, memory and system behavior, debug, inter-core interaction, MCU peripherals, and hardware/software root-cause analysis**. I also build embedded software and validation-automation projects to strengthen the complete engineering workflow from firmware to hardware evidence.
 
 > **Current focus: Cortex-M33 + Cortex-M55 MCU validation with integrated UWB subsystem interaction.**
 
@@ -47,17 +47,19 @@ My work spans **CPU bring-up, reset and boot behavior, exceptions and interrupts
 
 ---
 
-## 🐧 Embedded Linux & Driver Engineering
+## ⚙️ Embedded Systems Engineering
 
-- Linux Kernel
-- Linux Device Drivers
-- Character & Platform Drivers
-- Device Tree
-- BSP / U-Boot
+- Embedded C / C
+- Bare-metal firmware
+- RTOS concepts
+- ARM Cortex-M architecture
+- Device and peripheral control
 - I2C / SPI / UART
 - DMA
 - Interrupts
-- Power Management
+- Timers / PWM
+- Memory-mapped peripherals
+- Boot and reset flows
 
 ---
 
@@ -71,13 +73,9 @@ Browser-based **virtual Embedded Systems validation laboratory** for interactive
 
 Interactive embedded engineering tools covering **digital logic, memory, registers, Cortex-M concepts, interrupts and communication protocols**.
 
-### 🐧 [Embedded Master](https://github.com/sivaramireddy18/Embedded_Master)
-
-Hands-on **Linux Device Driver and Embedded Systems workspace** covering kernel modules, platform drivers, Device Tree, I2C, SPI, UART, DMA, debugging and power-management labs.
-
 ### 🔬 [Knowledge Hub – Embedded Systems](https://github.com/sivaramireddy18/Knowledge-Hub-Embedded-Systems)
 
-Structured **SoC and CPU validation knowledge platform** with test automation, regression workflows, PCIe/USB/SD validation and engineering methodology.
+Structured **CPU/SoC validation knowledge platform** with test automation, regression workflows, interface validation and engineering methodology.
 
 ### 🎓 [Think Silicon Academy](https://github.com/sivaramireddy18/Think-Silicon-Academy)
 
@@ -119,7 +117,7 @@ I focus on **reproducible evidence and root-cause analysis**, not just PASS/FAIL
 |---|---|
 | CPU / Architecture | Arm Cortex-M33, Cortex-M55, ARM, MCU architecture |
 | Languages | C, Embedded C, Python, Bash, C++ |
-| Embedded | Bare Metal, RTOS, Embedded Linux, U-Boot |
+| Embedded | Bare Metal, RTOS, Firmware |
 | Interfaces | PCIe, USB, I2C, SPI, UART, SD/MMC |
 | CPU Validation | Reset, Boot, Exceptions, NVIC, Memory, MPU, Debug, Inter-core |
 | System Validation | DMA, Peripherals, Clock/Reset, UWB integration, Stress, Recovery |
@@ -128,14 +126,14 @@ I focus on **reproducible evidence and root-cause analysis**, not just PASS/FAIL
 
 ---
 
-## 📚 Current Learning & Development
+## 📚 Current Development
 
-I'm continuously deepening my expertise in:
+I'm deepening my expertise in:
 
 - Cortex-M33 and Cortex-M55 architecture
 - CPU subsystem validation methodology
 - Multi-core MCU behavior and inter-core communication
-- Embedded Linux and device drivers
+- Embedded firmware and peripheral integration
 - Hardware/software co-debugging
 - UWB-enabled embedded systems
 - Validation automation and regression infrastructure
@@ -165,7 +163,6 @@ This portfolio focuses on **engineering methodology, reproducible experiments, v
 
 - CPU / SoC Validation
 - Embedded Systems
-- Linux Kernel & Device Drivers
 - Arm Cortex-M Architecture
 - Post-Silicon Validation
 - Semiconductor Engineering
